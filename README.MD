@@ -1,4 +1,4 @@
-# Navigation SDK
+# Vite app with Vercel
 
 ## Commands
 
